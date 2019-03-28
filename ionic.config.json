@@ -1,0 +1,7 @@
+{
+  "name": "mypt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
